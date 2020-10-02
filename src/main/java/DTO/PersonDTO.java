@@ -5,7 +5,6 @@
  */
 package DTO;
 
-import com.sun.jndi.cosnaming.IiopUrl.Address;
 import entities.Person;
 import java.util.Objects;
 
